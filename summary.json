@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-08-16T19:31:38.976642",
+  "files": {
+    "price_files_found": 26,
+    "processed_files": 18,
+    "skipped_files": 8,
+    "failed_files": 0,
+    "rows_read": 27211131
+  },
+  "products": {
+    "alcohol": 2958,
+    "tobacco": 191,
+    "total": 3149
+  },
+  "alcohol_subcategories": {
+    "arak": 52,
+    "wine": 1581,
+    "rum": 286,
+    "liqueur": 133,
+    "alcohol": 15,
+    "gin": 50,
+    "beer": 512,
+    "vodka": 123,
+    "brandy": 50,
+    "whiskey": 126,
+    "tequila": 21,
+    "vermouth": 9
+  },
+  "tobacco_subcategories": {
+    "cigarettes": 94,
+    "tobacco": 44,
+    "rolling_tobacco": 7,
+    "heated_tobacco": 3,
+    "cigar": 43
+  }
+}
