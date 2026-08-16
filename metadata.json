@@ -1,0 +1,39 @@
+{
+  "database_version": "1.0.0",
+  "generated_at_utc": "2026-08-16T20:32:21.494133+00:00",
+  "purpose": "Barcode product lookup database for product identification",
+  "source_files": {
+    "regular": "regular_products.json",
+    "alcohol": "alcohol_products.json",
+    "tobacco": "tobacco_products.json"
+  },
+  "files": {
+    "regular": [
+      "regular_1.json",
+      "regular_2.json",
+      "regular_3.json"
+    ],
+    "alcohol": "alcohol_products.json",
+    "tobacco": "tobacco_products.json",
+    "index": "index.json"
+  },
+  "products": {
+    "regular": 261936,
+    "alcohol": 2948,
+    "tobacco": 191,
+    "total_indexed": 265075
+  },
+  "processing": {
+    "regular_duplicates_removed": 0,
+    "alcohol_duplicates_removed": 0,
+    "tobacco_duplicates_removed": 0,
+    "regular_invalid_records": 0,
+    "alcohol_invalid_records": 0,
+    "tobacco_invalid_records": 0
+  },
+  "lookup": {
+    "index_file": "index.json",
+    "method": "barcode -> database file",
+    "barcode_normalization": "digits_only"
+  }
+}

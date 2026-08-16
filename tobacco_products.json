@@ -1,0 +1,1250 @@
+[
+  {
+    "barcode": "123456754879",
+    "name": "וויפ סיגריה אלקטרונית 12 אלף שאיפות",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "2255215",
+    "name": "עלי סיגר מרובע",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "3022052",
+    "name": "עלים לסיגר עגולים עבודת יד בד\"ץ ארוז 5",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "4006396046932",
+    "name": "מניטו טבק אורגני",
+    "description": "טבק מניטו",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "4006396046963",
+    "name": "טבק מאניטו",
+    "description": "טבק מניטו 30 גר'",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "4011700420087",
+    "name": "טבק - Original א.ד.ק לגבר 300 מ\"ל",
+    "manufacturer": "טאבק",
+    "description": "טבק - Original א.ד.ק לגבר 300 מ\"ל",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "4030600227503",
+    "name": "דוידוף גולד",
+    "description": "דוידוף גולד",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "4033100024252",
+    "name": "וינסטון קוד אקווה",
+    "manufacturer": "JTI",
+    "description": "וינסטון קוד אקווה",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "4033100038914",
+    "name": "טבק כאמל צהוב",
+    "manufacturer": "JTI",
+    "description": "טבק כאמל צהוב",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "4033100046490",
+    "name": "WINSTON אקווה ארוך",
+    "manufacturer": "יושלם",
+    "description": "ווינסטון אקווה ארוך",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "4033100047350",
+    "name": "כאמל לייט טבק",
+    "manufacturer": "JTI",
+    "description": "טבק כאמל כחול",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "4033100064036",
+    "name": "ווינסטון לייט טבק",
+    "manufacturer": "JTI",
+    "description": "ווינסטון לייט טבק",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "4043058008778",
+    "name": "טבק אמריקן ספירט כחול",
+    "manufacturer": "jti",
+    "description": "טבק אמריקן ספירט כחול",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "4043058010412",
+    "name": "אמריקן ספירט צהוב",
+    "manufacturer": "פלנטה טבק",
+    "description": "אמריקן ספירט צהוב",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "415796",
+    "name": "סיגרים בשר 800 ג`יסמין",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "415925",
+    "name": "סיגרים בשר בית יוסף",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "4228804",
+    "name": "עלי בצק למילוי סיגרים 450 ג`",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "42403784",
+    "name": "ריזלה ירוקה",
+    "description": "נייר גלגול לטבק",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "4256753",
+    "name": "עלי סיגר מרוקאי 450ג לפסטיליה",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "46024817",
+    "name": "NEXT אדום",
+    "manufacturer": "Amor di Pane",
+    "description": "נקסט אדום",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "46024824",
+    "name": "NEXT לייט",
+    "manufacturer": "פיליפ מוריס",
+    "description": "סיגריותNEXT",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "5000219023772",
+    "name": "סיגריות פאל מל כחול",
+    "manufacturer": "BAT",
+    "description": "סיגריות פאל מל כחול סטרים פקט 10 יח",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "5208049001452",
+    "name": "גולדן וירג'יניה",
+    "manufacturer": "BAT",
+    "description": "גולדן וירג'ינייה ירוק",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "5208049001513",
+    "name": "גולדן וירגיניה צהוב",
+    "description": "טבק גולדן וירג'יני 3",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "5208049001841",
+    "name": "פל מל בלאנס קפסולה",
+    "manufacturer": "גלוברנס",
+    "description": "פל מל מנטה כחול",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "5710840073984",
+    "name": "באלי שאג לבן",
+    "description": "באלי שאג לבן",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "5710840209437",
+    "name": "באלי שג חום",
+    "manufacturer": "סקנדינביין טובאקו גר",
+    "description": "באלי שג חום",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "5710840210013",
+    "name": "באלי שג לבן",
+    "manufacturer": "סקמדינביין טובקו",
+    "description": "באלי לבן 40 גר",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "5710840210075",
+    "name": "באלי שג כחול",
+    "manufacturer": "S.T.G",
+    "description": "באלי תכלת 40 גר",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "5710840210136",
+    "name": "באלישאג אדום",
+    "manufacturer": "S.T.G",
+    "description": "באלי אדום 40 גר",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "5710840210167",
+    "name": "באלי שג צהוב",
+    "manufacturer": "S.T.G",
+    "description": "באלי צהוב 40 גר",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "59455233",
+    "name": "VOGUE כחול",
+    "manufacturer": "גלוברנדס טבק",
+    "description": "ווג כחול",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "59455240",
+    "name": "VOGUE סגול",
+    "manufacturer": "BAT",
+    "description": "סיגריות ווג ליידי לילך חפיסה בודד",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "6638833843606",
+    "name": "אלקטרונית",
+    "manufacturer": "סמרט סנס",
+    "description": "אלקטרונית",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "6923739404335",
+    "name": "וויפ 50 אלף",
+    "description": "סיגריה אלקטרונית",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "6923739407671",
+    "name": "סיגריה אלקטרונית ענב",
+    "description": "סיגריה אלקטרונית ענב",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "6923739407718",
+    "name": "סיגריה אלקטרונית תות",
+    "description": "סיגריה אלקטרונית תות",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "6923739407732",
+    "name": "סיגריה אלקטרונית אוכ",
+    "description": "סיגריה אלקטרונית אוכ",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "6941881829172",
+    "name": "סיגריה טסלה בלו ראז",
+    "manufacturer": "shenzhen hot technol",
+    "description": "סיגריה טסלה בלו ראז כ 50000 שאיפות",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "6941881829196",
+    "name": "סיגריה טסלה פארטי פא",
+    "manufacturer": "shenzhen hot technol",
+    "description": "סיגריה טסלה פארטי פאב כ 50000 שאיפות",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "6942674303732",
+    "name": "TESLAסיגריה אבטיח אי",
+    "manufacturer": "גואנגדונג טי די סי א",
+    "description": "TESLAסיגריה אבטיח אייס כ80000 שאיפות",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "6942674303749",
+    "name": "TESLAסיגריה ענבים אי",
+    "manufacturer": "גואנגדונג טי די סי א",
+    "description": "TESLAסיגריה ענבים אייס כ80000 שאיפות",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "6942674303756",
+    "name": "TESLAסיגריה תות אבטי",
+    "manufacturer": "גואנגדונג טי די סי א",
+    "description": "TESLAסיגריה תות אבטיח כ80000 שאיפות",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "6942674303787",
+    "name": "TESLAסיגריה תפוח סוכ",
+    "manufacturer": "גואנגדונג טי די סי א",
+    "description": "TESLAסיגריה תפוח סוכריה כ80000 שאיפות",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "6942674303848",
+    "name": "סיגריה TESLA אבטיח א",
+    "description": "סיגריה TESLA אבטיח א",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "6942674303862",
+    "name": "TESLAסיגריהענבים אוכ",
+    "manufacturer": "גואנגדונג טי די סי א",
+    "description": "TESLAסיגריהענבים אוכמניות כ80000 שאיפות",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "6942674303886",
+    "name": "סיגריה TESLA דאבל תפ",
+    "description": "סיגריה TESLA דאבל תפ",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "6971405560960",
+    "name": "סיגריה אלקטרונית",
+    "description": "סיגריה אלקטרונית",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "6971405561189",
+    "name": "14000שאיפות אבטיח",
+    "description": "טבק אייס אבטיח",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "6971405561196",
+    "name": "14000שאיפות ענבים",
+    "description": "סיגריה אלקטרונית ענבים",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "6974498177381",
+    "name": "סיגריה אלקטרונית בטעם אננס אבטיחILUZIO",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "6974498177404",
+    "name": "סיגריה אלקטרונית בטעם ענבים אייסILUZION",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "6974498177428",
+    "name": "סיגריה אלקטרונית בטעם אוכמניותILUZIO",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "6974498177503",
+    "name": "סיגריה אלקטרונית אבטיח אייס ILUZION",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "6974498177527",
+    "name": "סיגריה אלקטרונית פירות טרופייםILUZION",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "6974498177541",
+    "name": "סיגריה אלקטרונית פירות יער ILUZION",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "6974498177961",
+    "name": "סיגריה אלקטרונית אבטיח אוכמניותILUZION",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "6974678157110",
+    "name": "סיגריה אלקטרונית",
+    "description": "סיגריה אלקטרונית",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "710840126130",
+    "name": "באלי תכלת טבק",
+    "description": "באלי תכלת טבק",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290000000172",
+    "name": "קוקטייל צמחי בית קער",
+    "description": "קוקטייל צמחי בית קער",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290000002870",
+    "name": "גריינדר לטבק-פלסטיק",
+    "description": "גריינדר לטבק-פלסטיק",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290000302027",
+    "name": "TIME קלאסיק {רד}",
+    "manufacturer": "דובק בע\"מ",
+    "description": "סיגריות טיים רד פקט 10 יח",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290000302102",
+    "name": "סיגריות מונטנה 10 יח",
+    "manufacturer": "דובק בע\"מ",
+    "description": "מונטנה פקט סיגרי",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290000302126",
+    "name": "מחזיק מפתחות",
+    "manufacturer": "דובק בע\"מ",
+    "description": "אירופה פקט סיגריות",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290000302188",
+    "name": "שרתון פקט סיגריו",
+    "manufacturer": "דובק בע\"מ",
+    "description": "שרתון פקט סיגריו",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290000302201",
+    "name": "נלסון פקט סיגריו",
+    "description": "נלסון פקט סיגריו",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290000302225",
+    "name": "פקט נובלס",
+    "manufacturer": "דובק בע\"מ",
+    "description": "סיגריות נובלס פילטר פקט 10 יח",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290000302515",
+    "name": "מוסטנג פקט סיגרי",
+    "manufacturer": "דובק בע\"מ",
+    "description": "מוסטנג פקט סיגרי",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290000302881",
+    "name": "גולף גולד פאקט 10*20",
+    "manufacturer": "קריות זול",
+    "description": "גולף גולד פאקט 10*20",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290000302898",
+    "name": "סיגריות גולף סילבר 1",
+    "manufacturer": "דובק בע\"מ",
+    "description": "סיגריות גולף סילבר 1",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290000415796",
+    "name": "סיגרים בשר יסמין 800 גרם",
+    "manufacturer": "יסמין מוצרי מזון קפואים",
+    "description": "סיגרים בשר יסמין 800 גרם",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290000415918",
+    "name": "סיגרים תפו\"א יסמין 700ג'",
+    "manufacturer": "יסמין מוצרי מזון קפואים",
+    "description": "סיגרים תפו\"א יסמין 700ג'",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290001599082",
+    "name": "סיגרים בשר 600 גר'",
+    "description": "סיגרים בשר 600 גר'",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290001599143",
+    "name": "סיגרים תפו\"א 600גר'",
+    "description": "סיגרים תפו\"א 600גר'",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290002150305",
+    "name": "סיגרים בשר מרוקאים",
+    "manufacturer": "חמים וטעים",
+    "description": "סיגרים בשר מרוקאים",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290002150404",
+    "name": "סיגרים תפו\"\"א מרוקאים\"",
+    "manufacturer": "חמים וטעים",
+    "description": "סיגרים תפו\"\"א מרוקאים\"",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290002150794",
+    "name": "סיגרים בשר חמים וטעים",
+    "manufacturer": "שיווק שומרון",
+    "description": "סיגים מרוקאים.",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290002150817",
+    "name": "סיגרים במילוי תפוח אדמה",
+    "manufacturer": "יושלם",
+    "description": "סיגר תפוח אדמה",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290002255031",
+    "name": "סיגרים במילוי בשר 80",
+    "manufacturer": "חטיפי אלקיים",
+    "description": "סיגרים במילוי בשר 800 גרם מחפוד אלקיים צ",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290002255130",
+    "name": "סיגרים במילוי תפוא 8",
+    "manufacturer": "חטיפי אלקיים",
+    "description": "סיגרים במילוי תפוא 800 גרם מחפוד אלקיים",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290002255215",
+    "name": "עלי סיגר",
+    "manufacturer": "חטיפי אלקיים",
+    "description": "עלים לסיגר",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290002409403",
+    "name": "עלים לסיגר 500 גר`",
+    "description": "עלים לסיגר 500 גר`",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290002603955",
+    "name": "מאפה סיגר בשר 600 גר",
+    "description": "מאפה סיגר בשר 600 גר",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290002603962",
+    "name": "מאפה סיגר תפו\"א 600",
+    "description": "מאפה סיגר תפו\"א 600",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290003359646",
+    "name": "עלי בצק למילוי 340 ג",
+    "manufacturer": "סופטבריק",
+    "description": "עלי בצק למילוי 340 ג",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290004228804",
+    "name": "עלי בצק למילוי סיגרים בריק ואגרול 450 גרם",
+    "manufacturer": "שלושת האופים בע\"מ",
+    "description": "עלי בצק למילוי סיגרים בריק ואגרול 450 גרם",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290004256753",
+    "name": "לפסטיליה עלי בצק למילוי",
+    "manufacturer": "שגמור בעמ",
+    "description": "לפסטיליה עלי בצק למילוי",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290005270000",
+    "name": "עלי סיגר",
+    "manufacturer": "חמים וטעים",
+    "description": "עלי סיגר",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290008335560",
+    "name": "סיגרים בשר",
+    "manufacturer": "שלושת האופים בע\"מ",
+    "description": "סיגרים במילוי בשר",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290008335584",
+    "name": "סיגרים תפוח אדמה",
+    "manufacturer": "שלושת האופים בעמ",
+    "description": "סיגרים במילוי ת.א 600 גרם",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290008343558",
+    "name": "סיגרים בשר 1 ק'ג שלושת",
+    "manufacturer": "שלושת האופים בע\"מ",
+    "description": "סיגרים בשר 1 ק'ג שלושת",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290008343565",
+    "name": "סיגרים תפו'א 1 ק'ג",
+    "manufacturer": "שלושת האופים",
+    "description": "סיגרים תפו'א 1 ק'ג",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290010294688",
+    "name": "תחליף לסיגריה ללא ניקוטין לימו",
+    "manufacturer": "אייווקי",
+    "description": "סמוק אאוט - תחליף לסיגריה לימון אשכולית",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290010294695",
+    "name": "תחליף לסיגריה ללא ניקוטין מ",
+    "manufacturer": "אייווקי",
+    "description": "סמוק אאוט - תחליף לסיגריה מנטה",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290012028243",
+    "name": "טבק נקסט כחול אורגינל",
+    "description": "טבק נקסט כחול אורגינל",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290012040313",
+    "name": "טבק צ`סטרפילדפרימיום הלצוורה פאקט חדש",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290014010192",
+    "name": "סמוק אאוט - פילטר לסיגריה 10 יח'",
+    "manufacturer": "אייווקי",
+    "description": "סמוק אאוט - פילטר לסיגריה 10 יח'",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290014010871",
+    "name": "סמוק אאוט - תחליף לסיגריה מנטה הדרים",
+    "description": "סמוק אאוט - תחליף לסיגריה מנטה הדרים",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290015374279",
+    "name": "סיגר במילוי בשר בד\"צ",
+    "description": "סיגר במילוי בשר בד\"צ",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290015374286",
+    "name": "סיגר במילוי תפו\"א בד",
+    "description": "סיגר במילוי תפו\"א בד",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290017926360",
+    "name": "סיגרים במילוי בשר המ",
+    "manufacturer": "חטיפי אלקיים בעמ",
+    "description": "סיגרים במילוי בשר המ",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290017926377",
+    "name": "סיגרים תפוח אדמה",
+    "description": "סיגרים תפוח אדמה",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115180251",
+    "name": "היטס כתום",
+    "manufacturer": "פיליפ מוריס",
+    "description": "יחידות טבק לחימום אמבר PP חפיסה",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115180268",
+    "name": "היטס ילו",
+    "manufacturer": "פיליפ מוריס",
+    "description": "יחידות טבק לחימום צהוב PP בודד",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115180275",
+    "name": "היטס טורקיז",
+    "manufacturer": "פיליפ מוריס",
+    "description": "טבק לחימום אייקוס טורקיז חפיסה",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115180282",
+    "name": "היטס ברונז",
+    "manufacturer": "פיליפ מוריס",
+    "description": "סיגריות אייקוס ברונז",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115180299",
+    "name": "היטס סיינה",
+    "description": "סיגריות אייקוס סיינה",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115180305",
+    "name": "פקט יחידות טבק לחימו",
+    "description": "פקט יחידות טבק לחימו",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115180329",
+    "name": "פקט יחידות טבק לחימו",
+    "description": "פקט יחידות טבק לחימו",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115180688",
+    "name": "היטס סגול",
+    "manufacturer": "פיליפ מוריס",
+    "description": "טבק לחימום אייקוס סגול חפיסה",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115181173",
+    "name": "טבק לחימום טראה אמבר",
+    "manufacturer": "פיליפ מוריס",
+    "description": "טבק לחימום טראה אמבר פאקט",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115181203",
+    "name": "טריאה צהוב",
+    "manufacturer": "פיליפ מוריס",
+    "description": "אייקוס צהוב חדש",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115181227",
+    "name": "טריאה טורקיז",
+    "manufacturer": "פיליפ מוריס",
+    "description": "אייקוס חדש טורקיס",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115181517",
+    "name": "טריאה עבור אייקוס אי",
+    "description": "טריאה עבור אייקוס אי",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115182224",
+    "name": "טריאה סאן פרל",
+    "manufacturer": "פיליפ מוריס",
+    "description": "סיגריות טריאה סאן פרל פאקט",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115190014",
+    "name": "מרלבורו רד",
+    "manufacturer": "פיליפ מוריס",
+    "description": "מרלבורו רד",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115190472",
+    "name": "נקסט פיין אדג",
+    "manufacturer": "פיליפ מוריס",
+    "description": "נקסט פיין אדג",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115190557",
+    "name": "נקסט פילטר",
+    "manufacturer": "פיליפ מוריס",
+    "description": "נקסט ריזס",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115190618",
+    "name": "טבק מלברו אדום",
+    "manufacturer": "פיליפ מוריס",
+    "description": "טבק מרלבורו רדPP חפיסה",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115190625",
+    "name": "מרלבורו גולד-טבק לגלגול סיגריות",
+    "description": "פקט טבק מרלבורו גולד",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115190632",
+    "name": "טבק מלבורו לייט",
+    "manufacturer": "פיליפ מוריס",
+    "description": "טבק מרלבורו גולד חפיסה 30 גרם",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115190649",
+    "name": "טבק נקסט פייןPP פאקט",
+    "manufacturer": "פיליפס",
+    "description": "טבק נקסט פייןPP פאקט",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115190656",
+    "name": "נקסט פיין טבק",
+    "manufacturer": "פיליפ מוריס",
+    "description": "טבק נקסט פייןPP חפיסה",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115190663",
+    "name": "נקסט אוריג`ינל טבק לגלגול סיגריות.",
+    "description": "טבק נקסט אוריג'ינלPP",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115190670",
+    "name": "טבק נקסט אדום",
+    "manufacturer": "פיליפ מוריס",
+    "description": "טבק נקסט אורגינל",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115190694",
+    "name": "צספרפילד פיין ורגיניה",
+    "manufacturer": "פיליפ מוריס",
+    "description": "טבק צ'סטרפילד",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115190731",
+    "name": "CHESTERFIELDאדום",
+    "manufacturer": "פיליפ מוריס פולסקה",
+    "description": "טבק צסטרפילד אוריגינל 30PP חפיסה",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115190892",
+    "name": "מרלבורו פיוזן קפסולה",
+    "manufacturer": "פיליפ מוריס",
+    "description": "סיגריות מרלבורו פיוזן קפסולה בודד",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115190915",
+    "name": "נקסט טבק 50 ג'",
+    "manufacturer": "פיליפ מוריס",
+    "description": "טבק נקסט וייט 50גרם",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115191066",
+    "name": "סיגריות נקסט ריץ פקט",
+    "description": "סיגריות נקסט ריץ פקט",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115191073",
+    "name": "נקסט ריץ ריסס",
+    "manufacturer": "פיליפ מוריס",
+    "description": "נקסט ריץ",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115191479",
+    "name": "טבק מלברו אדום",
+    "manufacturer": "פיליפ מוריס",
+    "description": "טבק מרלבורו רד GW חפיסה",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115191486",
+    "name": "מרלבורו גולד-טבק לגלגול סיגריות",
+    "manufacturer": "פיליפ מוריס",
+    "description": "טבק מלבורו PP גולד5*30ג",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115191493",
+    "name": "טבק מלבורו גולד",
+    "manufacturer": "פיליפ מוריס",
+    "description": "טבק מלבורו גולד",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115191516",
+    "name": "צסטרפילד",
+    "manufacturer": "פיליפ מוריס",
+    "description": "טבק צסטרפילד אוריגינל GW חפיסה",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115191523",
+    "name": "טבק צ`סטרפילד פיין-פאקט חדש",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115191530",
+    "name": "צסטרפילד פיין",
+    "manufacturer": "פיליפס",
+    "description": "טבק צסטרפילד פיין וירגינה GW בודד",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115191554",
+    "name": "טבק נקסט אורגינל",
+    "manufacturer": "פיליפ מוריס",
+    "description": "טבק נקסט אוריגינל GW בודד",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115191561",
+    "name": "נקסט פיין טבק לגלגול סיגריות.",
+    "manufacturer": "פיליפס",
+    "description": "טבק נקסט פיין 5*40גPP",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290115191578",
+    "name": "טבק אורגנאל",
+    "manufacturer": "פיליפ מוריס",
+    "description": "טבק נקסט פיין",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290121290098",
+    "name": "וויטסטון אקווה ארוך",
+    "manufacturer": "JTI",
+    "description": "סיגריות וינסטון אקווה ארוך חפיסה",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290121290104",
+    "name": "סיגריות וינסטון אקוו",
+    "manufacturer": "JTI",
+    "description": "סיגריות וינסטון אקווה ארוך פקט",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290121290371",
+    "name": "ווינסטון קוד פקט",
+    "manufacturer": "JTI",
+    "description": "סיגריות וינסטון קוד פקט",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290121290395",
+    "name": "אקווה קצר",
+    "manufacturer": "גלוברנדס טבק",
+    "description": "סיגריות וינסטון אקווה חפיסה",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290121290401",
+    "name": "סיגריות וינסטון אקוו",
+    "manufacturer": "JTI",
+    "description": "סיגריות וינסטון אקווה פקט",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290121290661",
+    "name": "ווינסטון לבן",
+    "manufacturer": "JTI",
+    "description": "טבק וינסטון לבן 40 גרם",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290121290692",
+    "name": "אל די סופרסלימס בלו",
+    "manufacturer": "JTI",
+    "description": "סיגריות אל די סופרסלימס כחול חפיסה",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290121290784",
+    "name": "כאמל כחול טבק",
+    "manufacturer": "JTI",
+    "description": "טבק לגלגול קאמל כחול חפיסה30 גרם",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290121290814",
+    "name": "טבק כאמל צהוב",
+    "manufacturer": "JTI",
+    "description": "טבק כאמל צהוב",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290121290845",
+    "name": "טבק אמריקן",
+    "manufacturer": "JTI",
+    "description": "טבק לגלגול אמריקן ספיריט כחול חבילה30גר",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7290121290876",
+    "name": "טבק וינסטון",
+    "manufacturer": "jti",
+    "description": "טבק לגלגול וינסטון כחול חפיסה30 גרם",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7296073705109",
+    "name": "סיגר במילוי תפו\"א 400 גר",
+    "manufacturer": "חטיפי אלקיים בע\"מ",
+    "description": "סיגר במילוי תפו\"א 400 גר",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7296073705246",
+    "name": "סיגר במילוי בשר 400 גרם",
+    "manufacturer": "חטיפי אלקיים בע\"מ",
+    "description": "סיגר במילוי בשר 400 גרם",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "72983997",
+    "name": "GOLF ארוך זהב",
+    "manufacturer": "דובק",
+    "description": "GOLF ארוך זהב",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "72984000",
+    "name": "GOLF סילבר",
+    "manufacturer": "דובק",
+    "description": "GOLF סילבר",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "72991374",
+    "name": "TIME קצר אדום",
+    "manufacturer": "דובק",
+    "description": "TIME קצר אדום",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "72991381",
+    "name": "TIME ארוך אדום",
+    "manufacturer": "קריות זול",
+    "description": "TIME ארוך אדום",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "72991398",
+    "name": "TIME קצר כחול",
+    "manufacturer": "דובק",
+    "description": "TIME קצר כחול",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "72991404",
+    "name": "אירופה סיגריות",
+    "manufacturer": "דובק",
+    "description": "סיגריות אירופה חפיסה בודד",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "72991428",
+    "name": "ברודווי ארוך",
+    "description": "ברודווי ארוך",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "72991459",
+    "name": "GOLF קצר",
+    "manufacturer": "דובק",
+    "description": "GOLF קצר",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "72991473",
+    "name": "סיגריות שרטון",
+    "manufacturer": "דובק",
+    "description": "סיגריות שרתון בודד",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "72991480",
+    "name": "נלסון סיגריות",
+    "description": "סיגריות נלסון",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "72991497",
+    "name": "נובלס קצר",
+    "manufacturer": "קריות זול",
+    "description": "נובלס קצר",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "72991503",
+    "name": "נובלס וירג'יניה בלנד",
+    "description": "נובלס בהיר",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "72991510",
+    "name": "מונטנה מנטה",
+    "manufacturer": "דובק",
+    "description": "מונטנה מנטה",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "72991527",
+    "name": "מוסטנג אדום",
+    "manufacturer": "דובק",
+    "description": "מוסטנג אדום",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "72991824",
+    "name": "TIME כחול ארוך",
+    "manufacturer": "דובק",
+    "description": "טיים כחול ארוך",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "72994252",
+    "name": "NEXT סליים",
+    "description": "נקסט סלימס סגול",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "72994603",
+    "name": "NEXT פילטר קצר",
+    "description": "נקסט סטרים קצר",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "72994610",
+    "name": "NEXT ארוך פילטר",
+    "description": "נקסט סטרים ארוך",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "72994627",
+    "name": "NEXT הדג' לייט",
+    "description": "נקסט חדש לייט",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "72994634",
+    "name": "NEXT אדג'",
+    "description": "נקסט חדש",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7465603183759",
+    "name": "סיגר פרינס. בלונד/ונילה5",
+    "manufacturer": "LA AURORA",
+    "description": "סיגר פרינס. בלונד/ונילה5",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7465603183797",
+    "name": "סיגר פרינסיפס נטורל",
+    "manufacturer": "LA AURORA",
+    "description": "סיגר פרינסיפס נטורל 5 יחידות",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7465603183803",
+    "name": "סיגר פרינסיפס רד/שרי 5יח",
+    "description": "סיגר פרינסיפס רד/שרי 5יח",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "7612800208758",
+    "name": "דנהול שחור",
+    "description": "סיגריות דנהיל שחור",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "810114512616",
+    "name": "פילטר 5 3 ארוך 1/100",
+    "manufacturer": "MAGNUS",
+    "description": "פילטר 5 3 ארוך 1/100 מגנוס",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "8335584",
+    "name": "סיגרים תפו\"א 600 גרם",
+    "description": "שלושת האופים סיגרים תפוחי אדמה, עלי בצק במלית תפוח",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "850002039009",
+    "name": "עלי סיגר מרוקאים 170",
+    "description": "עלי סיגר מרוקאים 170",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "855384000012",
+    "name": "פילטר קשיח",
+    "manufacturer": "‎SHALPHARM",
+    "description": "פילטר לסיגריות 30 יח",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "85951730",
+    "name": "120 פילטרים SLIM PAR",
+    "manufacturer": "ROLL 4 U",
+    "description": "120 פילטרים",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "8697659244453",
+    "name": "אסותא מילוי מטהר אוויר אנטי טבק",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "8710732228918",
+    "name": "מצת קריקט",
+    "manufacturer": "SWEDISH MATCH",
+    "description": "מצת קריקט",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "8715144001166",
+    "name": "שלישיית קונוסים",
+    "description": "טבק קונוס",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "8723900214545",
+    "name": "גולדן וירג`יניה 50 גר`טבק פאקט",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "8723900935174",
+    "name": "גולדן וורגינה",
+    "description": "גולדן וירג'יניה",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "8723900935860",
+    "name": "טבק פאל מאל כחול",
+    "manufacturer": "BAT",
+    "description": "טבק פאל מאל כחול",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "9780201321050",
+    "name": "סיגריה אלקטרוני מנגו אננס",
+    "manufacturer": "גואנגדונג טי די סי א",
+    "description": "Sweet Boost Newסיגריה מנגו אננס כ-60000",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "9780201341188",
+    "name": "ענבים אייס",
+    "description": "סיגריה אלקטרונית סטא",
+    "category": "tobacco"
+  },
+  {
+    "barcode": "9780202341088",
+    "name": "וייפ תפוח קיווי ירוק",
+    "description": "סיגריה אלקטרונית סקס",
+    "category": "tobacco"
+  }
+]
